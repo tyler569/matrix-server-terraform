@@ -31,10 +31,10 @@ database:
 
 log_config: "/data/choam.me.log.config"
 media_store_path: /data/media_store
-registration_shared_secret: "*8HgMAl#UISBoRHgPQe^o+1U2:eiI8+im-8dvQ2K1h7gch.O0f"
+registration_shared_secret: "SECRET"
 report_stats: true
-macaroon_secret_key: "NW;rhEkEw@c09o5jRq=4DqFA#:QQoTqxRKP_m*ZstGqe+0n.Ea"
-form_secret: "m^X;=CvT#JjmP5klZ++t,dzeVcFz8WVfy;fyAd*^3gH3BH-Tij"
+macaroon_secret_key: "SECRET"
+form_secret: "SECRET"
 signing_key_path: "/data/choam.me.signing.key"
 trusted_key_servers:
   - server_name: "matrix.org"
